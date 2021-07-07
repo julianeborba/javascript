@@ -1,0 +1,13 @@
+ {
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do bytebank estudo js 1",
+  "main": "ProgramacaoOrientadaObjeto.js",
+  "scripts": {
+    "start": "node ProgramacaoOrientadaObjeto.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juliane",
+  "license": "ISC",
+  "type": "module" 
+}
